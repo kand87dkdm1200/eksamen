@@ -1,0 +1,254 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background:#FA980C !important; 
+    
+}
+
+header {
+    background: #F5D29F !important;
+    height: 10%;
+}
+
+.page {
+    margin: 12%;
+}
+
+.nav-link {
+    color: #000000;
+}
+
+.nav {
+    background-color: #FA980C;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+li a:hover {
+    background-color: #FA980C;
+    color:white;
+}
+
+.active {
+    background-color: #FA980C !important;
+    color:white !important;
+}
+
+li a {
+    font-size: 30px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: #000000;
+}
+
+.container {
+    background-color: #F5D29F;
+    margin-top: 5%;
+}
+
+.text-container {
+    padding: 30px 10px 30px 10px;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.text-container p {
+    font-size: 18px; 
+}
+
+.program {
+    display: block; 
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+    margin-bottom: 4%;
+    width: 100%;
+    height: 100%;
+}
+
+#inforgrafikk {
+    display: block; 
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+    margin-bottom: 4%;
+    width: 25%;
+    height: 25%;
+}
+
+.disclaimer {
+    font-size: 12px;
+    color: black;
+    text-align: center;
+    margin-top: 20px; 
+}
+
+/*.text {
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: #000000;
+}
+
+.text p {
+    font-size: 16px;
+}
+
+.text h2 {
+    color: #000000;
+    font-family: 'Open Sans Condensed', sans-serif;
+}*/
+
+#video {
+    text-align: center;
+}
+
+
+
+
+/*li {
+    float: left;
+    list-style: none;
+}
+
+ul {
+  list-style-type: none;
+ /* margin: 0;
+  padding: 0;
+  width: 30px;
+}*/
+
+/*li a {
+  display: block;
+}*/
+
+/*li a {
+    display: block;
+    padding: 0px 20px;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: "Fraunces", sans-serif;
+    color: black;
+}
+
+p {
+    font-family: "Raleway", sans-serif;
+}
+
+h1 {
+    font-family: "Monserrat", serif;
+}
+
+h2 {
+    font-family: "Montserrat", serif;
+}
+
+header {
+    width: 100%;
+    height: 5%;
+    background-color: whitesmoke;
+    position: fixed;
+    z-index: 12;
+}
+
+.wrapp-poster {
+    background-image: url("img/landskap.jpg");
+    width: 100%;
+    height: 320px;
+    margin: 0 auto;
+    background-position: left top;
+    background-size: cover;
+    display: flex;
+}
+
+#top {
+    position: relative;
+    padding-top: 150px;
+    padding-left: 300px;
+    padding-bottom: 100px;
+    font-size: 30px;
+}
+
+#top h2 {
+    font-size: 20px;
+}
+
+#hjemme .text, #ute .text {
+    width: 40%;
+    float: right;
+    padding: 70px 50px 30px 50px;
+}
+
+#borte .text, #inne .text {
+    width: 40%;
+    float: left;
+    padding: 70px 50px 30px 50px;
+}
+
+#hjemme img, #ute img {
+    float: left;
+    width: 50%;
+}
+
+#borte img, #inne img {
+    float: right;
+    width: 50%;
+}
+
+#hjemme, #borte, #ute, #inne {
+    
+    width: 100%;
+    display: inline-block;
+}
+
+#borte, #inne {
+    background-color: rgba(220,220,220,0.3);
+}
+
+#inne p {
+    font-size: 23px;
+}
+
+li a:hover {
+    background-color: orangered;
+    color:aquamarine;
+}
+
+/*.all {
+    padding-left: 10%;
+    padding-right: 5%
+}*/
+
+/*button {
+    background-color: blueviolet;
+    font-size: 15px;
+    border: 2px solid black;
+    padding; 10px;
+    margin: 50px;
+}
+
+form {
+    border: 4px solid white;
+    padding: 10px 10px;
+}
+
+input[type=text] {
+    border: 2px solid red;
+    border-radius: 4px;
+    background-color: beige;
+}
+
+#inne img {
+    opacity: 0.5;
+}
+
+#inne img:hover {
+    opacity: 1.0;
+}
+
+.active {
+    color: red;
+    background-color: blue;
+}*/
+
