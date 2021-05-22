@@ -53,6 +53,7 @@ li a {
 .text-container {
     padding: 30px 10px 30px 10px;
     font-family: 'Open Sans Condensed', sans-serif;
+    margin-top: 15%;
 }
 
 .text-container p {
@@ -88,15 +89,4 @@ li a {
 
 #video {
     text-align: center;
-}
-
-@media (max-width: 767px) {
-    .nav {
-        position: relative;
-        top: auto;
-    }
-
-    .text-container {
-        margin-top: 40%;
-    }
 }
