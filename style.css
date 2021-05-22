@@ -89,3 +89,14 @@ li a {
 #video {
     text-align: center;
 }
+
+@media (max-width: 767px) {
+    .nav {
+        position: relative;
+        top: auto;
+    }
+
+    .text-container {
+        margin-top: 40%;
+    }
+}
